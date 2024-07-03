@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683935534651",
+    "project_id": "foodbookauthentication",
+    "storage_bucket": "foodbookauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683935534651:android:d4032495d83320c675561e",
+        "android_client_info": {
+          "package_name": "com.example.foodbook2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxxPyeUCgtf12zr144_No7Rx_evNsRPiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
